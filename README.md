@@ -6,14 +6,14 @@ I'm a software developer focused on cybersecurity, especially application protec
 
 - **Cybersecurity & App Protection**: Obfuscation, bytecode analysis, integrity checks, MFA, and passkeys.
 - **Privacy & Decentralization**: Matrix, UnifiedPush, open protocols, and self-hosted services.
-- **Software Engineering**: Java, Flutter/Dart, and C++/Qt, with build automation and cross-platform support.
+- **Software Engineering**: Java, Flutter, and C++/Qt, with build automation and cross-platform support.
 - **Backend & API Development**: Web APIs and server-side application logic.
 - **Legacy Tech & Modding**: Firmware, compatibility fixes, and reverse engineering on older devices.
 - **Infrastructure**: Linux systems, CI/CD, and network configuration.
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Java, Dart, Python, Bash, C++
+- **Languages**: Java, Python, Bash, C++
 - **Backend**: Java and Node.js
 - **Databases**: SQL (MySQL, SQLite) and NoSQL (MongoDB, Redis)
 - **Frameworks/Tools**: Flutter, JavaFX, Qt, ASM
