@@ -4,9 +4,9 @@ I'm a software developer focused on cybersecurity, especially application protec
 
 ## 🛡️ Focus & Interests
 
-- **Cybersecurity & App Protection**: Obfuscation, bytecode analysis, integrity checks, MFA, and passkeys.
+- **Cybersecurity & App Protection**: Obfuscation, low-level analysis, integrity verification, user management.
 - **Privacy & Decentralization**: Matrix, UnifiedPush, open protocols, and self-hosted services.
-- **Software Engineering**: Java, Flutter, and C++/Qt, with build automation and cross-platform support.
+- **Software Engineering**: Java, Flutter, and C++/Qt.
 - **Backend & API Development**: Web APIs and server-side application logic.
 - **Legacy Tech & Modding**: Firmware, compatibility fixes, and reverse engineering on older devices.
 - **Infrastructure**: Linux systems, CI/CD, and network configuration.
